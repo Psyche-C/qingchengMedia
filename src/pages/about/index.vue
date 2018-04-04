@@ -1,0 +1,25 @@
+<template>
+  <div class="about">
+	  <router-view></router-view> 
+  </div>
+</template>
+
+<script>
+export default {
+  name: 'about',
+  data () {
+    return {
+      msg: '关于公司'
+    }
+  }
+}
+</script>
+
+<!-- Add "scoped" attribute to limit CSS to this component only -->
+<style scoped>
+  .course{
+    height: 60px;
+    font-size: 20px;
+    padding: 10px;
+  }
+</style>
