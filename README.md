@@ -39,7 +39,11 @@
 ![image](https://github.com/Psyche-C/qingchengMedia/blob/master/images/%E6%B3%A8%E5%86%8C.png)
 ![image](https://github.com/Psyche-C/qingchengMedia/blob/master/images/%E8%AF%84%E8%AE%BA.png)
 
-
-
+启动
+  
+  npm install -g cnpm --registry=https://registry.npm.taobao.org // 全局安装 cnpm，已安装请跳过
+  cnpm install      //安装依赖
+  npm run dev       //启动项目
+  npm run build     //打包项目
 
 
