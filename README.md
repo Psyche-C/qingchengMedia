@@ -42,8 +42,11 @@
 启动
   
   npm install -g cnpm --registry=https://registry.npm.taobao.org // 全局安装 cnpm，已安装请跳过
+	
   cnpm install      //安装依赖
+	
   npm run dev       //启动项目
+	
   npm run build     //打包项目
 
 
