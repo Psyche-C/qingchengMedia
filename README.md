@@ -33,6 +33,11 @@
 
 项目部分截图：
 
+![image](https://github.com/Psyche-C/qingchengMedia/blob/master/images/%E4%B8%BB%E9%A1%B5.png)
+![image](https://github.com/Psyche-C/qingchengMedia/blob/master/images/%E6%8B%9B%E8%81%98.png)
+![image](https://github.com/Psyche-C/qingchengMedia/blob/master/images/%E6%96%B0%E9%97%BB.png)
+![image](https://github.com/Psyche-C/qingchengMedia/blob/master/images/%E6%B3%A8%E5%86%8C.png)
+![image](https://github.com/Psyche-C/qingchengMedia/blob/master/images/%E8%AF%84%E8%AE%BA.png)
 
 
 
